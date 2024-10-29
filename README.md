@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slurpy-films
-- 👀 I’m interested in js / python
+- 👀 I’m interested in js and python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my discord bit
 - 📫 How to reach me dm me
