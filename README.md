@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slurpy-films
-- 👀 I’m interested in js and python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in machine learning and discord.js rn
+- 🌱 I’m currently learning js
 - 📫 How to reach me: https://discord.com/users/1003618083954503680/
 - 😄 Pronouns: he/him
 
