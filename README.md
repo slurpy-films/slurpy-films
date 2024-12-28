@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slurpy-films
 - 👀 I’m interested in machine learning
-- 📫 How to reach me: https://discord.com/users/1003618083954503680/
+- 📫 How to reach me: https://gamlevegen.no/discord/
 - 😄 Pronouns: he/him
 
 <!---
