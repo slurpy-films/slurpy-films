@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @slurpy-films
-- 👀 I’m interested in machine learning
-- 📫 How to reach me: https://gamlevegen.no/discord/
-- 😄 Pronouns: he/him
+# Hi, I’m @slurpy-films
 
-<!---
-slurpy-films/slurpy-films is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a software developer focused on C++ and systems programming. Currently, I am working on creating my own programming language called Probescript, which you can explore in my pinned repository.
+
+I am passionate about building efficient and maintainable software tools, and I enjoy tackling complex technical challenges.
+
+Feel free to reach out to me via discord, my username is 'slurpy-films'.
