@@ -1,0 +1,6 @@
+module SomeModule;
+
+export fn somefn()
+{
+  console.println("somefn called");
+}
